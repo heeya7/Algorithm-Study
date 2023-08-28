@@ -1,4 +1,4 @@
-# 🖥 알고리즘 스터디
+# 👩🏻‍💻 알고리즘 스터디
 
 <table>
   <tr>
@@ -17,7 +17,7 @@
 
 <br/>
 
-## 🤖 스터디 멤버
+## 🤸🏻‍♀️ 참여자
 
 <table>
  <tr>
@@ -62,27 +62,6 @@
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/></td>
   </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/깃헙아이디"><img src="https://avatars.githubusercontent.com/깃헙아이디" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/깃헙아이디"><img src="https://avatars.githubusercontent.com/깃헙아이디" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/깃헙아이디"><img src="https://avatars.githubusercontent.com/깃헙아이디" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/깃헙아이디"><img src="https://avatars.githubusercontent.com/깃헙아이디" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/깃헙아이디"><img src="https://avatars.githubusercontent.com/깃헙아이디" width="130px;" alt=""></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/깃헙아이디"><b>heeya</b></a></td>
-    <td align="center"><a href="https://github.com/깃헙아이디"><b>닉네임</b></a></td>
-    <td align="center"><a href="https://github.com/깃헙아이디"><b>닉네임</b></a></td>
-    <td align="center"><a href="https://github.com/깃헙아이디"><b>닉네임</b></a></td>
-    <td align="center"><a href="https://github.com/깃헙아이디"><b>닉네임</b></a></td>
-  </tr>
-  <tr> 
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/></td>
-  </tr>
 </table>
 
 <br/>
@@ -100,7 +79,8 @@
 
 ## ✅ commit 컨벤션
 
-* commit 메세지 : [INF] 문제이름 / 난이도
+* commit 메세지 : [INF] 문제번호/문제이름/난이도
+* 예시) 섹션3의 1번 문제일 경우, [INF] 3-1/두배열합치기/초급
 
 <br/>
 
@@ -116,3 +96,4 @@
 해당 README는 다음 레포지토리를 참고해서 제작하였습니다.
 
 - [알고리즘 및 코딩 테스트 문제 풀이 챌린지 100](https://github.com/ellynhan/challenge100-codingtest-study)
+- [알고리즘 스터디 - 시즌2](https://github.com/CodeSquad-2023-BE-Study/Algorithm-Study)
