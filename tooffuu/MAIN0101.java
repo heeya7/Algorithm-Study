@@ -1,4 +1,4 @@
-package tooffuu.A;
+package tooffuu;
 
 import java.util.*;
 
@@ -14,7 +14,7 @@ import java.util.*;
         첫 줄에 해당 문자열의 개수를 출력한다.
  */
 
-public class Main_230828 {
+public class MAIN0101 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
