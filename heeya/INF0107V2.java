@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class INF0107V2 {
 
     public static String solution(String str) {
         String answer = "YES";
@@ -13,6 +13,7 @@ public class Main {
                 return answer;
             }
         }
+
         return answer;
     }
 
