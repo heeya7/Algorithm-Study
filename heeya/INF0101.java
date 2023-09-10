@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class INF0101 {
     public static int solution(String str, char c) {
         int answer = 0;
 
