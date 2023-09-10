@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class INF0105 {
     public static String solution(String str) {
         char[] charArr = str.toCharArray();
         int lt = 0;
