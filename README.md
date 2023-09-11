@@ -24,14 +24,14 @@
     <td align="center"><a href="https://github.com/heeya7"><img src="https://avatars.githubusercontent.com/heeya7" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/tooffuu"><img src="https://avatars.githubusercontent.com/tooffuu" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/hdongree"><img src="https://avatars.githubusercontent.com/hdongree" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/zerohyun.j"><img src="https://avatars.githubusercontent.com/zerohyun.j" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/zerohyun-j"><img src="https://avatars.githubusercontent.com/zerohyun-j" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/깃헙아이디"><img src="https://avatars.githubusercontent.com/깃헙아이디" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/heeya7"><b>heeya</b></a></td>
     <td align="center"><a href="https://github.com/tooffuu"><b>tooffuu</b></a></td>
     <td align="center"><a href="https://github.com/hdongree"><b>hdongree</b></a></td>
-    <td align="center"><a href="https://github.com/zerohyun.j"><b>zerohyun.j</b></a></td>
+    <td align="center"><a href="https://github.com/zerohyun-j"><b>zerohyun.j</b></a></td>
     <td align="center"><a href="https://github.com/깃헙아이디"><b>닉네임</b></a></td>
   </tr>
   <tr> 
