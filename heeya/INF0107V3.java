@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class INF0107V3 {
     public static String solution(String str) {
         String answer = "YES";
         String tmp = new StringBuilder(str).reverse().toString();

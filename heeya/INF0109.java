@@ -1,17 +1,17 @@
 import java.util.Scanner;
 
-public class INF0106 {
-
-    public static String solution(String str) {
-        String answer ="";
+public class INF0109 {
+    public static int solution(String str) {
+        String answer = "";
+        char[] charArr = str.toCharArray();
 
         for(int i=0; i<str.length(); i++) {
-            if(i == str.indexOf(str.charAt(i))) {
-                answer +=str.charAt(i);
+            if(charArr[i] >= 48 && charArr[i] <=57) {
+                answer += charArr[i];
             }
         }
 
-        return answer;
+        return Integer.parseInt(answer);
     }
 
     public static void main(String[] args) {

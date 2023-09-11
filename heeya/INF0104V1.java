@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Main {
+public class INF0104V1 {
     public static ArrayList<String> solution(int n, String[] strArr) {
         ArrayList<String> answer = new ArrayList<>();
 
