@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class INF0108 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String s = sc.nextLine().toUpperCase().replaceAll("[^A-Z0-9]"," ");
+        String s = sc.nextLine().toUpperCase().replaceAll("[^A-Z]"," ");
         s = s.replace(" ","");
 
         INF0108 inf = new INF0108();
