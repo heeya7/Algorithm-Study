@@ -1,4 +1,4 @@
-package park;
+package park.sec2;
 
 import java.util.Scanner;
 
