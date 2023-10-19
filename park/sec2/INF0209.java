@@ -9,12 +9,19 @@ public class INF0209 {
         sc.nextLine();
         int[][] grid = new int[n][n];
 
-        for (int i = 0; i < n; i++) {
-            String s = sc.nextLine();
-            String[] split = s.split(" ");
+//        for (int i = 0; i < n; i++) {
+//            String s = sc.nextLine();
+//            String[] split = s.split(" ");
+//
+//            for (int j = 0; j < n; j++) {
+//                grid[i][j] = Integer.parseInt(split[j]);
+//            }
+//        }
 
-            for (int j = 0; j < n; j++) {
-                grid[i][j] = Integer.parseInt(split[j]);
+        //바로 2차배열로 저장
+        for(int i=0; i<n; i++){
+            for(int j=0; j<n; j++){
+                grid[i][j]=sc.nextInt();
             }
         }
 
@@ -38,6 +45,8 @@ public class INF0209 {
                 sums[2] += grid[j][j];
                 sums[3] += grid[j][n-j-1];
             }
+
+            //최댓값 구하기
             for (int sum : sums) {
                 if(sum > max) {
                     max = sum;
